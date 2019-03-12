@@ -10,10 +10,10 @@ These homeworks are copyright of Alberto Forti, Andrea Tommasi, Teofan Clipa and
 - Fourth homework: implementation of a solution for the diversity maximization problem & 
 
 # Contributors
-Alberto Forti
-Andrea Tommasi
-Teofan Clipa
-Roberto Campedelli
+- Alberto Forti
+- Andrea Tommasi
+- Teofan Clipa
+- Roberto Campedelli
 
 # Built with
 - Java
